@@ -24,6 +24,9 @@ https://en.wikipedia.org/wiki/Shim_(computing)
 ##Polyfill
 https://remysharp.com/2010/10/08/what-is-a-polyfill
 
+##Ponyfill
+https://ponyfoo.com/articles/polyfills-or-ponyfills
+
 ##Debounce
 http://davidwalsh.name/javascript-debounce-function
 
