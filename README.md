@@ -145,6 +145,24 @@ https://en.wikipedia.org/wiki/Continuous_delivery
 
 #Architecture
 
+##Hexagonal Architecture
+https://fideloper.com/hexagonal-architecture
+
+##Onion Architecture
+https://blog.thedigitalgroup.com/understanding-onion-architecture
+
+##Immutable Architecture
+https://medium.com/react-weekly/embracing-immutable-architecture-dc04e3f08543
+
+##Flux
+http://facebook.github.io/flux
+
+##CQRS
+http://martinfowler.com/bliki/CQRS.html
+
+##Event Sourcing
+http://martinfowler.com/eaaDev/EventSourcing.html
+
 ##Reactive Programming
 https://en.wikipedia.org/wiki/Reactive_programming
 
