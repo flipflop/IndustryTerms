@@ -1,101 +1,101 @@
 # IndustryTerms
 
-##Web Standards
+## Web Standards
 https://en.wikipedia.org/wiki/Web_standards
 
-##Semantic HTML
+## Semantic HTML
 https://en.wikipedia.org/wiki/Semantic_HTML
 
-##Plain Old Java Object (POJO)
+## Plain Old Java Object (POJO)
 https://en.wikipedia.org/wiki/Plain_Old_Java_Object
 
-##Plain Old Semantic HTML (POSH)
+## Plain Old Semantic HTML (POSH)
 http://www.456bereastreet.com/archive/200711/posh_plain_old_semantic_html/
 
-##Separation of Concerns
+## Separation of Concerns
 https://en.wikipedia.org/wiki/Separation_of_concerns
 
-##Mixin
+## Mixin
 https://en.wikipedia.org/wiki/Mixin
 
-##Shim
+## Shim
 https://en.wikipedia.org/wiki/Shim_(computing)
 
-##Polyfill
+## Polyfill
 https://remysharp.com/2010/10/08/what-is-a-polyfill
 
-##Ponyfill
+## Ponyfill
 https://ponyfoo.com/articles/polyfills-or-ponyfills
 
-##Debounce
+## Debounce
 http://davidwalsh.name/javascript-debounce-function
 
-##Currying
+## Currying
 https://en.wikipedia.org/wiki/Currying
 
-##Partial Application
+## Partial Application
 http://ejohn.org/blog/partial-functions-in-javascript/
 
-##Monads
+## Monads
 https://en.wikipedia.org/wiki/Monad_(functional_programming)
 
-##Memoizing
+## Memoizing
 https://en.wikipedia.org/wiki/Memoization
 
-##Duck Typing
+## Duck Typing
 https://en.wikipedia.org/wiki/Duck_typing
 
-##Duck Punching
+## Duck Punching
 http://www.paulirish.com/2010/duck-punching-with-jquery/
 
-##Monkey Patch
+## Monkey Patch
 https://en.wikipedia.org/wiki/Monkey_patch
 
-##Anonymous Function
+## Anonymous Function
 https://en.wikipedia.org/wiki/Anonymous_function
 
-##Revealing Module Pattern
+## Revealing Module Pattern
 http://toddmotto.com/mastering-the-module-pattern/
 
-##Multi-part Module with Loose/Tight Augmentation
+## Multi-part Module with Loose/Tight Augmentation
 http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
 
-##Reflection
+## Reflection
 https://en.wikipedia.org/wiki/Reflection_(computer_programming)
 
-##IIFE
+## IIFE
 http://benalman.com/news/2010/11/immediately-invoked-function-expression/
 
-##Progressive Enhancement
+## Progressive Enhancement
 http://www.sitepoint.com/progressive-enhancement-graceful-degradation-basics/
 
-##Regressive Enhancement
+## Regressive Enhancement
 http://www.sitepoint.com/regressive-enhancement-with-modernizr-and-yepnope/
 
-##Defensive Programming
+## Defensive Programming
 https://en.wikipedia.org/wiki/Defensive_programming
 
-##Fault Tolerance
+## Fault Tolerance
 https://en.wikipedia.org/wiki/Fault_tolerance
 
-##Don't Repeat Yourself (DRY)
+## Don't Repeat Yourself (DRY)
 https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 
-##You aren't gonna need it (YAGNI)
+## You aren't gonna need it (YAGNI)
 https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
 
-##Jank
+## Jank
 https://www.chromium.org/developers/how-tos/trace-event-profiling-tool/anatomy-of-jank
 
-##Development 
+## Development 
 
-##Semantic Versioning (Sem Ver)
+## Semantic Versioning (Sem Ver)
 http://semver.org/
 
-##Waterfall
+## Waterfall
 https://en.wikipedia.org/wiki/Waterfall_model
 
-##Agile
+## Agile
 https://en.wikipedia.org/wiki/Agile_software_development
 
 	- Wagile
@@ -104,112 +104,117 @@ https://en.wikipedia.org/wiki/Agile_software_development
 	- Fragile
 	https://northwaysolutions.com/blog/agile-vs-fragile/#.VbcyIZOqpBc
 
-##Persona Driven Development
+## Persona Driven Development
 http://krisjordan.com/2008/09/12/persona-driven-development-meet-customers-first-write-unit-tests-later
 
-##Extreme Programming 
+## Extreme Programming 
 https://en.wikipedia.org/wiki/Extreme_programming
 
-##Pair Programming
+## Pair Programming
 https://en.wikipedia.org/wiki/Pair_programming
 
-##Code Review
+## Code Review
 https://en.wikipedia.org/wiki/Code_review
 
-#Testing / Deployment
+# Testing / Deployment
 
-##Test Driven Development (TDD)
+## Test Driven Development (TDD)
 https://en.wikipedia.org/wiki/Test-driven_development
 
-##Behaviour Driven Development (BDD)
+## Behaviour Driven Development (BDD)
 http://guide.agilealliance.org/guide/bdd.html
 
-##Functional Testing
+## Functional Testing
 https://en.wikipedia.org/wiki/Functional_testing
 
-##Smoke Testing
+## Smoke Testing
 https://en.wikipedia.org/wiki/Smoke_testing_(software)
 
-##Regression Testing
+## Regression Testing
 https://en.wikipedia.org/wiki/Regression_testing
 
-##Usability Testing
+## Usability Testing
 https://en.wikipedia.org/wiki/Usability_testing
 
-##Continuous Integration (CI)
+## Continuous Integration (CI)
 https://en.wikipedia.org/wiki/Continuous_integration
 
-##Continuous Delivery (CD)
+## Continuous Delivery (CD)
 https://en.wikipedia.org/wiki/Continuous_delivery
 
 
-#Architecture
+# Architecture
 
-##Hexagonal Architecture
+## Hexagonal Architecture
 https://fideloper.com/hexagonal-architecture
 
-##Onion Architecture
+## Onion Architecture
 https://blog.thedigitalgroup.com/understanding-onion-architecture
 
-##Immutable Architecture
+## Immutable Architecture
 https://medium.com/react-weekly/embracing-immutable-architecture-dc04e3f08543
 
-##Flux
+## Flux
 http://facebook.github.io/flux
 
-##CQRS
+## CQRS
 http://martinfowler.com/bliki/CQRS.html
 
-##Event Sourcing
+## Event Sourcing
 http://martinfowler.com/eaaDev/EventSourcing.html
 
-##Reactive Programming
+## Reactive Programming
 https://en.wikipedia.org/wiki/Reactive_programming
 
-##Micro Services (also affects operational and development structures)
+## Micro Services (also affects operational and development structures)
 http://microservices.io/patterns/microservices.html
 
-##Service Oriented Architecture
+## Service Oriented Architecture
 https://en.wikipedia.org/wiki/Service-oriented_architecture
 
-##Event Driven Architecture (EDA)
+## Event Driven Architecture (EDA)
 https://en.wikipedia.org/wiki/Event-driven_architecture)
 
-##Domain Driven Design
+## Domain Driven Design
 https://en.wikipedia.org/wiki/Domain-driven_design
 
-##Constraint Driven Design
+## Constraint Driven Design
 https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/Introduction/Introduction.html
 
-##Aspect Oriented Programming
+## Aspect Oriented Programming
 https://en.wikipedia.org/wiki/Aspect-oriented_software_development
 
-##Inversion of Control (IoT)
+## Inversion of Control (IoT)
 https://en.wikipedia.org/wiki/Inversion_of_control
 
-##Single Responsibility Principle
+## Single Responsibility Principle
 https://en.wikipedia.org/wiki/Single_responsibility_principle
 
-##Cohesion
+## Cohesion
 https://en.wikipedia.org/wiki/Cohesion_(computer_science)
 
-##Orthogonality
+## Orthogonality
 https://en.wikipedia.org/wiki/Orthogonality_(programming)
 
-##Interoperability
+## Interoperability
 https://en.wikipedia.org/wiki/Interoperability
 
-##Software Brittleness
+## Software Brittleness
 https://en.wikipedia.org/wiki/Software_brittleness
 
-##Data Federation
+## Data Federation
 http://searchdatamanagement.techtarget.com/definition/data-federation-technology
 
-##Feature Toggle
+## Feature Toggle
 http://martinfowler.com/bliki/FeatureToggle.html
 
+## Yak Shaving
+https://www.techopedia.com/definition/15511/yak-shaving
 
-#Further Resources:
+## Bike Shedding
+https://css-tricks.com/what-is-bikeshedding/
+
+# Further Resources:
 
 https://github.com/aurajs/aura/wiki/Resources-On-Scalable-JavaScript-Application-Architecture
 
