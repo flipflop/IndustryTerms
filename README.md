@@ -125,6 +125,9 @@ https://en.wikipedia.org/wiki/Pair_programming
 ## Code Review
 https://en.wikipedia.org/wiki/Code_review
 
+## Rubber Duck Debugging
+https://en.wikipedia.org/wiki/Rubber_duck_debugging
+
 # Testing / Deployment
 
 ## Test Driven Development (TDD)
