@@ -48,6 +48,9 @@ https://en.wikipedia.org/wiki/Duck_typing
 ## Duck Punching
 http://www.paulirish.com/2010/duck-punching-with-jquery/
 
+## Dogfooding
+https://en.wikipedia.org/wiki/Eating_your_own_dog_food
+
 ## Monkey Patch
 https://en.wikipedia.org/wiki/Monkey_patch
 
