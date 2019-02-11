@@ -1,5 +1,11 @@
 # IndustryTerms
 
+## Abstract Syntax Tree (AST)
+https://medium.com/@jotadeveloper/abstract-syntax-trees-on-javascript-534e33361fc7
+
+## Concurrency model and Event Loop
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
+
 ## Web Standards
 https://en.wikipedia.org/wiki/Web_standards
 
