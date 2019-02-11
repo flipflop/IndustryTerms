@@ -217,6 +217,9 @@ http://searchdatamanagement.techtarget.com/definition/data-federation-technology
 ## Feature Toggle
 http://martinfowler.com/bliki/FeatureToggle.html
 
+## JavaScript Virtual DOM
+https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060
+
 ## Yak Shaving
 https://www.techopedia.com/definition/15511/yak-shaving
 
